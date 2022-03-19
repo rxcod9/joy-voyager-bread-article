@@ -1,6 +1,6 @@
 <?php
 
-namespace Joy\VoyagerBreadReplaceKeyword\Database\Seeders;
+namespace Joy\VoyagerBreadArticle\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use TCG\Voyager\Models\Permission;
